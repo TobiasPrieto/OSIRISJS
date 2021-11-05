@@ -1,0 +1,98 @@
+[
+  {
+      "id": 1,
+      "nombre": "NIKE ZOOM 4 KOBE FINALS MVP",
+      "imagen": "https://tobiasprieto.github.io/Osiris-Shoes/images/nikekobe.jpg",
+      "precioLabel": "28999",
+      "precio": 28999,
+      "cantidad": 1
+  },
+  {
+      "id": 2,
+      "nombre": "NIKE JORDAN 1",
+      "imagen": "https://tobiasprieto.github.io/Osiris-Shoes/images/jordanblue.jpg",
+      "precioLabel": "24999",
+      "precio": 24999,
+      "cantidad": 1
+  },
+  {
+      "id": 3,
+      "nombre": "NIKE AIRMAX 98",
+      "imagen": "https://tobiasprieto.github.io/Osiris-Shoes/images/nike98rosa.jpg",
+      "precioLabel": "18999",
+      "precio": 18999,
+      "cantidad": 1
+  },
+  {
+      "id": 4,
+      "nombre": "CONVERSE ALL STAR",
+      "imagen": "https://tobiasprieto.github.io/Osiris-Shoes/images/converse.jpg",
+      "precioLabel": "8999",
+      "precio": 8999,
+      "cantidad": 1
+  },
+  {
+      "id": 5,
+      "nombre": "ADIDAS DEERUPT RUNNER",
+      "imagen": "https://tobiasprieto.github.io/Osiris-Shoes/images/deerupt.jpg",
+      "precioLabel": "8999",
+      "precio": 8999,
+      "cantidad": 1
+  },
+  {
+      "id": 6,
+      "nombre": "ADIDAS NITE JOGGER 3M",
+      "imagen": "https://tobiasprieto.github.io/Osiris-Shoes/images/niteJogger3m.jpg",
+      "precioLabel": "24999",
+      "precio": 24999,
+      "cantidad": 1
+  },
+  {
+      "id": 7,
+      "nombre": "ADIDAS POD S3.1",
+      "imagen": "https://tobiasprieto.github.io/Osiris-Shoes/images/podBlancas.jpg",
+      "precioLabel": "18999",
+      "precio": 18999,
+      "cantidad": 1
+  },
+  {
+      "id": 8,
+      "nombre": "ADIDAS ORIGINALS OZWEEGO",
+      "imagen": "https://tobiasprieto.github.io/Osiris-Shoes/images/ozweego.jpg",
+      "precioLabel": "23999",
+      "precio": 23999,
+      "cantidad": 1
+  },
+  {
+      "id": 9,
+      "nombre": "ADIDAS YEEZY 350",
+      "imagen": "https://github.com/TobiasPrieto/Osiris-Shoes/blob/master/yeezyNegras.jpg?raw=true",
+      "precioLabel": "34999",
+      "precio": 34999,
+      "cantidad": 1
+  },
+    {
+        "id": 10,
+        "nombre": "ADIDAS YEEZY 700",
+        "imagen": "https://github.com/TobiasPrieto/Osiris-Shoes/blob/master/yeezy700.jpg?raw=true",
+        "precioLabel": "31999",
+        "precio": 31999,
+        "cantidad": 1
+    },
+    {
+        "id": 11,
+        "nombre": "NIKE JORDAN 4 BRED",
+        "imagen": "https://github.com/TobiasPrieto/Osiris-Shoes/blob/master/jordan4.jpg?raw=true",
+        "precioLabel": "29999",
+        "precio": 29999,
+        "cantidad": 1
+    },
+    {
+        "id": 12,
+        "nombre": "NIKE AIR MAX 720",
+        "imagen": "https://github.com/TobiasPrieto/Osiris-Shoes/blob/master/nike720.jpg?raw=true",
+        "precioLabel": "22999",
+        "precio": 22999,
+        "cantidad": 1
+    }
+]
